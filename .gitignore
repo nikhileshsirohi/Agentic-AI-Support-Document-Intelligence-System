@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and local secrets
+.env
+.env.*
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# Local data/artifacts
+data/
+outputs/
+*.log
+
